@@ -10,3 +10,5 @@ Page for DevOps
 - `$ vim harbor.yml`
 - `$ sudo ./install.sh`
 - Access http://localhost/ using user: `admin`, password: `<the passyourd you configured in harbor.yml>`
+- Reference: https://goharbor.io/docs/2.13.0/install-config/download-installer/
+  
