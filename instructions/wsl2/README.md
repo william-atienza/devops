@@ -23,3 +23,7 @@
 - `wsl -d <ImageName>`
   - `wsl -d UbuntuCustomServer`. Notice on the terminal that it will switch to WSL directory. It means that the image successfully run. 
   ![rundistro.png](rundistro.png)
+
+## Check the imported distro
+- `wsl.exe -l -v`
+  ![importeddistroterminal.png](importeddistroterminal.png)
